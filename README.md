@@ -39,9 +39,10 @@ This repository is for the development of SoftLabs project from the Applied Scie
     git push
     ```
     - Lastly, go back to <user_name>/Softlab (your fork) and 'Contribute'. There are will be a branch named after you in the main repository, example: CausmicClub/SoftLabs:RaghavJit_Complete. When contributing your work you have to make sure that you only contribute change in your respective branch. So when you contribute make sure to select your branch as target:
-    ```
-    CausmicClub/SoftLabs:RaghavJit_Complete <-- RaghavJit/SoftLabs:main
-    ``` 
+        ```
+        CausmicClub/SoftLabs:RaghavJit_Complete <-- RaghavJit/SoftLabs:main
+        ``` 
+    ![alt text](./Images_for_readme/contribute.png?raw=true)
 
 ## Important things to remember.
 1. Only edit code present in <your_name> branch of your fork.
@@ -177,4 +178,4 @@ Testing and bug reporting will be done by the testing team. The procedure for th
 ## Issue Resolution
 1. When an issue is reported the development team will try to resolve it.
 1. Issue will be assigned to a member. Everyone is allowed to assign issues to each other.
-1. When the issue is fixed, update the README.md according to the above instructions. (See Documentation and commenting pt. 4)
+1. When the issue is fixed, update the README.md according to the above instructions. (See Documentation and commenting pt. 4) 
