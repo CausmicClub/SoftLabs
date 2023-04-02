@@ -154,7 +154,6 @@ experiment-name
 </pre>
 
 # Testing and Issue resolution
-
 Testing and bug reporting will be done by the testing team. The procedure for the same is mentioned below.
 
 ## Testing 
