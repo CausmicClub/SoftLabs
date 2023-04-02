@@ -38,7 +38,10 @@ This repository is for the development of SoftLabs project from the Applied Scie
     git checkout main
     git push
     ```
-    - Lastly, go back to <user_name>/Softlab (your fork) and 'Contribute', this will finally push all the changes to the CausmicClub/SoftLabs.
+    - Lastly, go back to <user_name>/Softlab (your fork) and 'Contribute'. There are will be a branch named after you in the main repository, example: CausmicClub/SoftLabs:RaghavJit_Complete. When contributing your work you have to make sure that you only contribute change in your respective branch. So when you contribute make sure to select your branch as target:
+    ```
+    CausmicClub/SoftLabs:RaghavJit_Complete <-- RaghavJit/SoftLabs:main
+    ``` 
 
 ## Important things to remember.
 1. Only edit code present in <your_name> branch of your fork.
