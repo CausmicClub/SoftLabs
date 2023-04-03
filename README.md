@@ -52,18 +52,18 @@ This repository is for the development of SoftLabs project from the Applied Scie
 1. Don't create new folders without permission.
 1. Don't upload files that are not directly related to the project.
 1. Small changes (typos/non-functional bugs) don't need to be immediately sent to CausmicClub/SoftLabs. Instead, you can keep these changes in your main and push them along only when there are more important changes to be sent.
-1. You might face "conflicts" when merging main and <your_name> or vise versa, in this case, either try to resolve the conflicts (only if you know what you are doing), of contact someone higher in the project management hirarchy. 
+1. You might face "conflicts" when merging main and <your_name> or vise versa, in this case, either try to resolve the conflicts (only if you know what you are doing), of contact someone higher in the project management hierarchy. 
 1. Get comfortable with gitbash/GithubCLI.
 1. Keep in contact of the team and make sure that not more than 1 person is not working on a file.
 
-# Devolopment Rules
+# Development Rules
 
 ## Naming variables
 ### Use meaningful names for variables and functions, try to avoid abbreviations/short forms
 
 1. Global variables have to be in uppercase in snake_case.
 ```
-let NEEDLE_ANLGE = 12
+let NEEDLE_ANGLE = 12
 ```
 1. Local variables have to be in PascalCase 
 ```
@@ -133,7 +133,7 @@ TEMPLATE
 |
 +---README.md: Documentation for the BasicStyle.css and BasicFunction.js
     BasicStyle.css: Contains all the classes which are common to a number of experiments.
-    BasicFuntion.js: Contains all the basic JavaScript code common to experiments.
+    BasicFunction.js: Contains all the basic JavaScript code common to experiments.
 
 ASSETS
 |
