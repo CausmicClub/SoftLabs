@@ -44,7 +44,7 @@ This repository is for the development of SoftLabs project from the Applied Scie
         ``` 
     ![alt text](./Images_for_readme/contribute.png?raw=true)
     
-    <span style="color: blue">!!! Please don't push your contributions to CausmicClub/SoftLabs:main, even if someone forces you to do so at a gun point (we will remember you and your contributions forever \*wiping a teardrop\*)</span>
+    <span style="color: red">!!! Please don't push your contributions to CausmicClub/SoftLabs:main, even if someone forces you to do so at a gun point (we will remember you and your contributions forever \*wiping a teardrop\*)</span>
 
 ## Important things to remember.
 1. Only edit code present in <your_name> branch of your fork.
