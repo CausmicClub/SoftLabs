@@ -16,7 +16,11 @@ This repository is for the development of SoftLabs project from the Applied Scie
     git commit -m "a meaningful and detailed commit message"
     ```
 1. Once you are done making changes merge your changes into <your_name> branch of your fork, and contribute in the following way:
-    - Click 'Sync Fork' option on GitHub, this will bring all the changes from CasumicClub/SoftLabs to <user_name>/SoftLabs.
+    - Click 'Sync Fork' option on GitHub, this will bring all the changes from CasumicClub/SoftLabs to <user_name>/SoftLabs. Alternatively, you can use GitHubCLI and sync in the following way:
+    ```
+    gh repo sync
+    ``` 
+    ===Remember to set remote to Causmic/Club=== 
     - Go to main branch of your fork on your machine and pull the changes from GitHub (these changes are made by other users).
     ```
     git checkout main
@@ -38,10 +42,14 @@ This repository is for the development of SoftLabs project from the Applied Scie
     git checkout main
     git push
     ```
-    - Lastly, go back to <user_name>/Softlab (your fork) and 'Contribute'. There are will be a branch named after you in the main repository, example: CausmicClub/SoftLabs:RaghavJit_Complete. When contributing your work you have to make sure that you only contribute change in your respective branch. So when you contribute make sure to select your branch as target:
+    - Lastly, go back to <user_name>/Softlab (your fork) and 'Contribute'. There are will be a branch named after you in the main repository, example: CausmicClub/SoftLabs:raghav_work. When contributing your work you have to make sure that you only contribute change in your respective branch. So when you contribute make sure to select your branch as target:
         ```
-        CausmicClub/SoftLabs:RaghavJit_Complete <-- RaghavJit/SoftLabs:main
+        CausmicClub/SoftLabs:raghav_work <-- RaghavJit/SoftLabs:main
         ``` 
+      You can also create pull request using GH-CLI:
+      ```
+      gh pr create --base <raghav_work>
+      ```
     ![alt text](./Images_for_readme/contribute.png?raw=true)
     
     <marquee><span style="color: red">!!! Please don't push your contributions to CausmicClub/SoftLabs:main, even if someone forces you to do so at a gun point (we will remember you and your contributions forever \*wiping a teardrop\*)</span>
