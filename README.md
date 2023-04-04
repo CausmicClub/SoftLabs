@@ -48,7 +48,7 @@ This repository is for the development of SoftLabs project from the Applied Scie
         ``` 
       You can also create pull request using GH-CLI:
       ```
-      gh pr create --base <raghav_work>
+      gh pr create --base <your branch on CausmicClub/SoftLabs>
       ```
     ![alt text](./Images_for_readme/contribute.png?raw=true)
     
