@@ -1,5 +1,5 @@
 # SoftLabs
-This repository is for the development of SoftLabs project from the Applied Science Department at Guru Nanak Dev Engineering College, Ludhiana.
+This repository is for the development of SoftLabs project for the Applied Science Department at Guru Nanak Dev Engineering College, Ludhiana.
 
 # Rules for contributing to this repository:
 1. Create a Fork for this repository by clicking on 'fork'. 
